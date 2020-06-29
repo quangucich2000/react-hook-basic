@@ -33,7 +33,7 @@ function ColorBox() {
             style={{ backgroundColor: color }}
             onClick={handleBoxClick}
         >
-            ColorBox
+            TodoList
         </div>
     );
 }

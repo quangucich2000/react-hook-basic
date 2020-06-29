@@ -1,0 +1,14 @@
+.form {
+    $h: 32px;
+    width: 100%;
+    height: $h;
+    padding: 20px 20px;
+    input {
+        color: #999;
+        width: 25%;
+        height: $h;
+        padding: 0 6px;
+        border-radius: 5px;
+        border-color: #ccc;
+    }
+}
